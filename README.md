@@ -1,1 +1,1 @@
-# dispaly-qrcode
+# display-qrcode
